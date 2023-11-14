@@ -16,4 +16,5 @@ This Project uses Back4App as Backend As A Service.
 4. run cmd - `flutter run`
 
 ### ToDo App Usage Video
-https://github.com/Zuyuf/bits-cross-platform-assignment/blob/main/cross-platform-todo-app-video.mp4
+https://github.com/Zuyuf/bits-cross-platform-assignment/assets/54274918/3e70d90e-2c9b-4ded-863a-fcbfdd4250c5
+
