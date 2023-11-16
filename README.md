@@ -1,12 +1,16 @@
 # Flutter ToDo App - Cross Platform App Development Assignment
 
-Student ID: 2022mt93750    
-Student Name: Zuyufullah Manna    
+Student ID: 2022mt93750  
+Student Name: Zuyufullah Manna
 
 This Project uses Back4App as Backend As A Service.
 
+### Run App
 
-### Steps to Run 
+- Install `flutter_todo_app.apk` .
+- `flutter_todo_app.apk` you can find in root folder of the project.
+
+### Steps to Run Project
 
 1. Need a device
    1. Either Use Android Studio's Emulator
@@ -16,5 +20,5 @@ This Project uses Back4App as Backend As A Service.
 4. run cmd - `flutter run`
 
 ### ToDo App Usage Video
-https://github.com/Zuyuf/bits-cross-platform-assignment/assets/54274918/3e70d90e-2c9b-4ded-863a-fcbfdd4250c5
 
+https://github.com/Zuyuf/bits-cross-platform-assignment/assets/54274918/3e70d90e-2c9b-4ded-863a-fcbfdd4250c5
